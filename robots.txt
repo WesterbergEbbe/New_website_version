@@ -1,1 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
 
+User-agent: *
+Allow: /
+
+Sitemap: https://oispaes.netlify.app/oispaes/www.oispakaljaa.com/index.html
