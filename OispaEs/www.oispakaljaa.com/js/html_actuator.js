@@ -218,7 +218,7 @@ HTMLActuator.prototype.hideInfo = function () {
 
 HTMLActuator.prototype.goKatko = function () {
     
-    snd = new Audio("/audio/katkolle.mp3");  
+    snd = new Audio("rage_quit.mp3");  
     snd.play();
     this.clearContainer(this.scoreContainer);    
     this.clearContainer(this.katkoViesti);    
