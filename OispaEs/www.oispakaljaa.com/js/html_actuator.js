@@ -13,7 +13,7 @@ function HTMLActuator() {
   
 }
 
-dogeSayings = ['Pärisee!!!!', 'Ebin juttu wiliami','vitun jonne', 'lokki', 'Potkiii!!!', 'Kofeiiini']
+dogeSayings = ['Pärisee!!!!', 'Ebin juttu wiliami','vitun jonne', 'lokki', 'Potkiii!!!', 'Kofeiiini','sheesss!!!', 'maistuu maistuu', 'Es potkiii!!']
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
   var self = this;
